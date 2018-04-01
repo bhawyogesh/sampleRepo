@@ -1,0 +1,9 @@
+This is a sample file
+<<<<<<< HEAD
+Test Content Oneone
+Test Content two
+=======
+Test Content One
+Test Content twotwo
+>>>>>>> branch1
+Test Content Three
